@@ -88,7 +88,7 @@ iframe{
   box-shadow: 1px 1px 3px rgba(0,0,0,.4);
 }
 
-.topnav {
+/* .topnav {
   background-color: #cdb0b0;
   width: 100%;
   padding: 0px 50px;
@@ -102,7 +102,7 @@ iframe{
   text-decoration: none;
   overflow: hidden;
   padding: 10px 30px;
-}
+} */
 
 .topnav a:hover {
   background-color: antiquewhite;
@@ -114,22 +114,7 @@ iframe{
   box-shadow: 2px 2px 10px rgba(0,0,0,.3);
 }
 
-@media (max-width: 960px) {
-
-  .container {
-    width: 700px;
-  }
-}
-
-
-@media (max-width: 720px) {
-
-  .container {
-    width: 500px;
-  }
-}
-
-@media (max-width: 390px) {
+@media (max-width: 570px) {
 
   .container {
     width: 370px;
