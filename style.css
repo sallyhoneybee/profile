@@ -132,7 +132,7 @@ iframe{
 @media (max-width: 390px) {
 
   .container {
-    width: 100%;
+    width: 370px;
   }
   h1 {
     font-size: 40px;
@@ -145,7 +145,7 @@ iframe{
   }
   .card {
     background-color: #cdb0b0;
-    width: 80%;
+    width: 350px;
     padding: 30px 10px;
     margin: 20px auto;
     border-radius: 15px;
