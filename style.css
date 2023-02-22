@@ -58,6 +58,7 @@ iframe{
 
 .social-link {
   text-decoration: none;
+  text-align: center;
   color: #F9F5E7;
 }
 
@@ -104,10 +105,10 @@ iframe{
   padding: 10px 30px;
 } */
 
-.topnav a:hover {
+/* .topnav a:hover {
   background-color: antiquewhite;
   color: #843c4a;
-}
+} */
 
 #profile-beach-photo {
   border-radius: 150px;
